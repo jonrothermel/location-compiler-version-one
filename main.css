@@ -91,6 +91,7 @@
 	list-style-type: none;
 	margin: 1rem;
 	padding: 1rem;
+	box-shadow: 10px 10px 5px #888888;
 }
 .nav-button-city:hover {
 	font-family: helvetica;
